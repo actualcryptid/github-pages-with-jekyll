@@ -1,5 +1,5 @@
 ---
-title: Wave Airlines
+title: "Wave Airlines"
 date: 2020-01-30
 ---
 
